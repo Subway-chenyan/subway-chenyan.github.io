@@ -9,7 +9,7 @@ tags:
     - JavaScript
 ---
 
-> [隐入尘烟]（https://www.notion.so/4e2be98ac6d74022bdaf649fd85df8dd?pvs=4）
+> [隐入尘烟](https://www.notion.so/4e2be98ac6d74022bdaf649fd85df8dd?pvs=4)[「如何评价上海交通大学 18 级计算机系第一名「迟先生」的言论？」](https://www.zhihu.com/question/439622084/answer/1685314467)
 
 一开始是被充满文艺气息的名字所吸引，正巧在商场吃完饭闲逛，看看电影作为饭后余兴。但是不曾想看了一部今年来我认为最好的国产影片。
 
